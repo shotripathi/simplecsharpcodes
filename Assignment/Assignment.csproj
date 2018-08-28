@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LinesIntersect.cs" />
     <Compile Include="PallindromeChecker.cs" />
     <Compile Include="PSChecker.cs" />
     <Compile Include="Program.cs" />
